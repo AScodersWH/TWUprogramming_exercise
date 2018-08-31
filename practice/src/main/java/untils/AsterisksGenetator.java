@@ -43,5 +43,19 @@ public class AsterisksGenetator {
         }
     }
 
+    public void diamondGeneratorWithName(int num) {
+        for (int i = 1; i < num; i++) {
+            spaceGenerator(num-i);
+            horizontalGenerator(i*2-1);
+            System.out.println();
+        }
+        System.out.println("tom wang");
+        for (int i = num-1; i >= 1; i--) {
+            spaceGenerator(num-i);
+            horizontalGenerator(i*2-1);
+            System.out.println();
+        }
+    }
+
 
 }
