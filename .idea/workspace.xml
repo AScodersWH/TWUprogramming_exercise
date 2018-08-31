@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="484fa220-ba3b-4fc3-9abf-226836391ca7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/practice/src/main/java/diamondExercises/generateRightTriggleWithAsterisks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/main/java/diamondExercises/GenerateAsterisksWithNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/diamondExercises/GenerateAsterisksWithNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice/src/main/java/diamondExercises/GenerateVerticalAsterisksWithNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/diamondExercises/GenerateVerticalAsterisksWithNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/practice/src/main/java/diamondExercises/GenerateTenteredTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/practice/src/main/java/untils/AsterisksGenetator.java" beforeDir="false" afterPath="$PROJECT_DIR$/practice/src/main/java/untils/AsterisksGenetator.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/practice/.gradle/" />
@@ -39,23 +38,23 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gradle" value="1" />
-          <entry key="java" value="10" />
+          <entry key="java" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Groovy" value="1" />
-          <entry key="JAVA" value="10" />
+          <entry key="JAVA" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="541" />
+          <entry key="java" value="617" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="541" />
+          <entry key="JAVA" value="617" />
         </counts>
       </usages-collector>
     </session>
@@ -71,47 +70,56 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/practice/src/main/java/untils/AsterisksGenetator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            <state relative-caret-position="339">
+              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/src/main/java/diamondExercises/GenerateAsterisksWithNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/src/main/java/diamondExercises/GenerateOneAsterisk.java">
+        <entry file="file://$PROJECT_DIR$/practice/src/main/java/triangleExercises/GenerateAsterisksWithNumber.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/practice/src/main/java/diamondExercises/GenerateVerticalAsterisksWithNumber.java">
+        <entry file="file://$PROJECT_DIR$/practice/src/main/java/triangleExercises/GenerateOneAsterisk.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/practice/src/main/java/diamondExercises/generateRightTriggleWithAsterisks.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/src/main/java/triangleExercises/GenerateVerticalAsterisksWithNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+            <state relative-caret-position="190">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/src/main/java/diamondExercises/GenerateTenteredTriangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/practice/src/main/java/triangleExercises/generateRightTriggleWithAsterisks.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -443,10 +451,11 @@
         <option value="$PROJECT_DIR$/practice/src/main/java/diamondExercises/OneAsterisk.java" />
         <option value="$PROJECT_DIR$/practice/src/main/java/untils/Scanners.java" />
         <option value="$PROJECT_DIR$/practice/src/main/java/diamondExercises/GenerateOneAsterisk.java" />
-        <option value="$PROJECT_DIR$/practice/src/main/java/diamondExercises/GenerateAsterisksWithNumber.java" />
         <option value="$PROJECT_DIR$/practice/src/main/java/diamondExercises/GenerateVerticalAsterisksWithNumber.java" />
-        <option value="$PROJECT_DIR$/practice/src/main/java/untils/AsterisksGenetator.java" />
         <option value="$PROJECT_DIR$/practice/src/main/java/diamondExercises/generateRightTriggleWithAsterisks.java" />
+        <option value="$PROJECT_DIR$/practice/src/main/java/triangleExercises/generateRightTriggleWithAsterisks.java" />
+        <option value="$PROJECT_DIR$/practice/src/main/java/diamondExercises/GenerateAsterisksWithNumber.java" />
+        <option value="$PROJECT_DIR$/practice/src/main/java/untils/AsterisksGenetator.java" />
       </list>
     </option>
   </component>
@@ -511,6 +520,15 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="triangleExercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TWUprogramming_exercise" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TWUprogramming_exercise" type="462c0819:PsiDirectoryNode" />
+              <item name="practice" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="untils" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -522,12 +540,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535697914536" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1535698584148" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="diamondExercises" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/practice/src/main/java" />
       <recent name="$PROJECT_DIR$/practice/src/com.thoughtworks.tomwang" />
@@ -545,13 +566,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.generateRightTriggleWithAsterisks">
+  <component name="RunManager" selected="Application.GenerateTenteredTriangle">
     <configuration name="GenerateAsterisksWithNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="diamondExercises.GenerateAsterisksWithNumber" />
+      <option name="MAIN_CLASS_NAME" value="triangleExercises.GenerateAsterisksWithNumber" />
       <module name="practice_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="diamondExercises.*" />
+          <option name="PATTERN" value="triangleExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -560,7 +581,20 @@
       </method>
     </configuration>
     <configuration name="GenerateOneAsterisk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="diamondExercises.GenerateOneAsterisk" />
+      <option name="MAIN_CLASS_NAME" value="triangleExercises.GenerateOneAsterisk" />
+      <module name="practice_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="triangleExercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GenerateTenteredTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="diamondExercises.GenerateTenteredTriangle" />
       <module name="practice_main" />
       <extension name="coverage">
         <pattern>
@@ -573,11 +607,11 @@
       </method>
     </configuration>
     <configuration name="GenerateVerticalAsterisksWithNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="diamondExercises.GenerateVerticalAsterisksWithNumber" />
+      <option name="MAIN_CLASS_NAME" value="triangleExercises.GenerateVerticalAsterisksWithNumber" />
       <module name="practice_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="diamondExercises.*" />
+          <option name="PATTERN" value="triangleExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -586,11 +620,11 @@
       </method>
     </configuration>
     <configuration name="generateRightTriggleWithAsterisks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="diamondExercises.generateRightTriggleWithAsterisks" />
+      <option name="MAIN_CLASS_NAME" value="triangleExercises.generateRightTriggleWithAsterisks" />
       <module name="practice_main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="diamondExercises.*" />
+          <option name="PATTERN" value="triangleExercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -603,9 +637,11 @@
       <item itemvalue="Application.GenerateAsterisksWithNumber" />
       <item itemvalue="Application.GenerateVerticalAsterisksWithNumber" />
       <item itemvalue="Application.generateRightTriggleWithAsterisks" />
+      <item itemvalue="Application.GenerateTenteredTriangle" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GenerateTenteredTriangle" />
         <item itemvalue="Application.generateRightTriggleWithAsterisks" />
         <item itemvalue="Application.GenerateVerticalAsterisksWithNumber" />
         <item itemvalue="Application.GenerateAsterisksWithNumber" />
@@ -679,38 +715,45 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practice/src/main/java/untils/Scanners.java" />
-    <entry file="file://$PROJECT_DIR$/practice/src/main/java/diamondExercises/GenerateAsterisksWithNumber.java">
+    <entry file="file://$PROJECT_DIR$/practice/src/main/java/triangleExercises/GenerateAsterisksWithNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/src/main/java/triangleExercises/GenerateOneAsterisk.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/src/main/java/triangleExercises/generateRightTriggleWithAsterisks.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/src/main/java/triangleExercises/GenerateVerticalAsterisksWithNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/practice/src/main/java/diamondExercises/GenerateTenteredTriangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
-          <caret line="9" column="50" lean-forward="true" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
+          <caret line="9" column="50" selection-start-line="9" selection-start-column="50" selection-end-line="9" selection-end-column="50" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/practice/src/main/java/untils/AsterisksGenetator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/src/main/java/diamondExercises/GenerateOneAsterisk.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="4" selection-start-line="5" selection-start-column="4" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/src/main/java/diamondExercises/GenerateVerticalAsterisksWithNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/practice/src/main/java/diamondExercises/generateRightTriggleWithAsterisks.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="50" selection-start-line="7" selection-start-column="50" selection-end-line="7" selection-end-column="50" />
+        <state relative-caret-position="339">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
         </state>
       </provider>
     </entry>
