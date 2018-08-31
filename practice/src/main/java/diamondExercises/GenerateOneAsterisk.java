@@ -1,7 +1,10 @@
 package diamondExercises;
 
+import untils.AsterisksGenetator;
+
 public class GenerateOneAsterisk {
     public static void main(String args[]){
-        System.out.println("*");
+        AsterisksGenetator asterisksGenetator = new AsterisksGenetator();
+        asterisksGenetator.horizontalGenerator(1);
     }
 }
