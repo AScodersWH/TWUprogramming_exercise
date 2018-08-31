@@ -34,5 +34,14 @@ public class AsterisksGenetator {
         }
     }
 
+    public void diamondGenerator(int num) {
+        centerTriggleGenerator(num);
+        for (int i = num-1; i >= 1; i--) {
+            spaceGenerator(num-i);
+            horizontalGenerator(i*2-1);
+            System.out.println();
+        }
+    }
+
 
 }
