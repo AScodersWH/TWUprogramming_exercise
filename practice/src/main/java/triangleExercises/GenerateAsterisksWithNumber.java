@@ -1,10 +1,12 @@
-package diamondExercises;
+package triangleExercises;
 
 import untils.AsterisksGenetator;
 
-public class GenerateVerticalAsterisksWithNumber {
+
+public class GenerateAsterisksWithNumber {
     public static void main(String args[]) {
+
         AsterisksGenetator asterisksGenetator = new AsterisksGenetator();
-        asterisksGenetator.verticalGenerator(3);
+        asterisksGenetator.horizontalGenerator(3);
     }
 }

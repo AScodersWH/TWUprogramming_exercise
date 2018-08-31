@@ -1,10 +1,10 @@
-package diamondExercises;
+package triangleExercises;
 
 import untils.AsterisksGenetator;
 
-public class generateRightTriggleWithAsterisks {
+public class GenerateOneAsterisk {
     public static void main(String args[]){
         AsterisksGenetator asterisksGenetator = new AsterisksGenetator();
-        asterisksGenetator.rightTriggleGenerator(3);
+        asterisksGenetator.horizontalGenerator(1);
     }
 }
